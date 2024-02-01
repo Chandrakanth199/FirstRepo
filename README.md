@@ -1,4 +1,4 @@
 # FirstRepo
 my first github exposure
 <br>
-Testing purpose
+Testing purpose only
